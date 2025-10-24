@@ -16,6 +16,6 @@ Teaching vs non-teaching staff distribution
 
 Database: MySQL
 
-Environment: MySQL Workbench / VS Code
+Environment: MySQL Workbench 
 
 Skills Used: Joins, CTEs, Window Functions, Aggregations, Query Optimization
